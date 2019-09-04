@@ -1,5 +1,5 @@
 {
-  "name": "scrolllock",
+  "name": "@joaopedroabreuu/scrolllock",
   "version": "1.0.0",
   "description": "Lock and unlock window scroll when called",
   "main": "index.js",
