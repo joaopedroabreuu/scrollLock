@@ -1,6 +1,6 @@
 {
   "name": "@joaopedroabreuu/scrolllock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lock and unlock window scroll when called",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/joaopedroabreuu/scrollLock.git"
   },
-  "keyword": [
+  "keywords": [
     "Scroll",
     "Lock",
     "ScrollLock",
