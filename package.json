@@ -1,7 +1,7 @@
 {
   "name": "scrolllock",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lock and unlock window scroll when called",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/joaopedroabreuu/scrollLock.git"
   },
-  "author": "",
+  "keyword": [
+    "Scroll",
+    "Lock",
+    "ScrollLock",
+    "Widnow Lock",
+    "Window"
+  ],
+  "author": "João Pedro Abreu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/joaopedroabreuu/scrollLock/issues"
