@@ -19,4 +19,4 @@ required('scrollLock');
 
 ### Locked
 
-````$.scrollLock(true);```
+```$.scrollLock(true);```
