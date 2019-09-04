@@ -10,7 +10,7 @@ Plugin designed to help lock the window scroll when opening a modal, for example
 Then...
 
 ```
-required('scrollLock');
+required('@joaopedroabreuu/scrolllock');
 ```
 
 ### Unlocked
